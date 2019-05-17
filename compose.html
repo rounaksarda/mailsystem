@@ -1,0 +1,46 @@
+<style>
+.label{
+  border-radius: 4px;
+  background-color: #FFFAFA;
+  border: none;
+  color: #8B0000;
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+padding-right:0px;
+  width: 100px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  margin-right:0px;
+}
+</style>
+<form action="insert.jsp" method="POST" >
+<table align=center>
+<tr>
+<td><label class=label>To</label></td>
+<td><input type="Email" name="t1" size="100" required></td>
+</tr>
+<tr>
+<td><label class=label>Cc</label></td>
+<td><input type="Email" name="t2" size="100" ></td>
+</tr>
+<tr>
+<td><label class=label>Bcc</label></td>
+<td><input type="Email" name="t3" size="100" ></td>
+</tr>
+<tr>
+<td><label class=label>Subject</label></td>
+<td><input type="text" name="t4" size="100" required></td>
+</tr>
+<tr>
+<td></td>
+<td><textarea rows=20 cols=91 name="t5" placeholder="Message...."></textarea></td>
+</tr>
+<tr>
+<td></td>
+<td align=right><input type="submit" value="Send" class=label></td>
+</tr>
+
+
+</table>
