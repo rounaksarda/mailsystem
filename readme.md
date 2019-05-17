@@ -1,27 +1,25 @@
-# This page is about me !!
+# This Project is about My Mail System  !!
 
-## I am Rounak Sarda writing about my self 
+##### 
 
-I am a **Hard-Working** and enthausiast,
-My core value is *trust*,
-I like to *learn* and  **implement** new things .
+This project of mail system carries all important modules for mail we require. 
+ 
+The code files are in this repository .
+The database for the same is not uploaded yet , but if any one is inrested
+then please do let me know I will mail you the drive link .
 
-- This is
-- an unordered
-- list
+I am uploading some **Photos** of how it gonna look
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
+- Login Page
+- SignUp Page
+- Home page after login
+- Inbox
+- Sent 
+- Delete
 
-```
-This is
-a block
-of code
-```
+Some more pages are there to upload but I am not uploading them , as I am 
+trying to make this project as for a company domain.
+ 
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Here is the link for some [screenshot](https://drive.google.com/open?id=13sd6sjQla3tbdIJv2AaCuYXKrPOHq-ZE)
